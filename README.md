@@ -1,7 +1,7 @@
 # URL Shortener
 A tool that shortens any url
 
-## Features
+## About
 
 ## Tech Used
 
