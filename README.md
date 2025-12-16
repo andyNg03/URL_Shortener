@@ -1,2 +1,16 @@
-# RESTful_API
-This serves as learning experience for me to work with RESTful_API. Will extend later on to build another project
+# URL Shortener
+A tool that shortens any url
+
+## Features
+
+## Tech Used
+
+## Requirements
+
+## Usage
+
+## Known Issues
+
+## References
+
+## Disclaimer
